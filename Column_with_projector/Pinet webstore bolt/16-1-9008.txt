@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"16-1-9008";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"SUPPLIER";"PINET";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-07012016-090414";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Push barrel bolt";"";
+"TraceParts.InstanceId";"10-07012016-090414BLXKV1WZ00IAEVNVHF38JXTKA";"";
+"TraceParts.PartTitle";"Push barrel bolt";"";
+"poids";"44";"";
+"finition";"raw";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"matiere";" stainless steel";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"PINET:/F_PINET/PINET.020/10-07012016-090414";"";
